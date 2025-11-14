@@ -6,3 +6,9 @@ A PHP website for accessing affordable/generic medicines in its online portal.
 !(https://github.com/vrajesh007/Gendrug-PHP-Admin_Panel/blob/main/3.png)
 !(https://github.com/vrajesh007/Gendrug-PHP-Admin_Panel/blob/main/4.png)
 
+### Demo
+
+![Screenshot1](1.png)
+![Screenshot1](2.png)
+![Screenshot1](3.png)
+![Screenshot1](4.png)
