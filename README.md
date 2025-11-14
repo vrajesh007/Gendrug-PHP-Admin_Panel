@@ -1,5 +1,5 @@
 # Gendrug
-A PHP website for accessing affordable/generic medicines in its online portal.
+A PHP website for managing the admin panel of Gendrug Android app (for selling generic medicines).
 
 !(https://github.com/vrajesh007/Gendrug-PHP-Admin_Panel/blob/main/1.png)
 !(https://github.com/vrajesh007/Gendrug-PHP-Admin_Panel/blob/main/2.png)
