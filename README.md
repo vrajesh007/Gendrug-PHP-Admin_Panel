@@ -4,6 +4,6 @@ A PHP website for managing the admin panel of Gendrug Android app (for selling g
 ### Screenshots
 
 ![Screenshot1](1.png)
-![Screenshot1](2.png)
-![Screenshot1](3.png)
-![Screenshot1](4.png)
+![Screenshot2](2.png)
+![Screenshot3](3.png)
+![Screenshot4](4.png)
