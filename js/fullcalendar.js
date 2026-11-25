@@ -577,7 +577,7 @@ $(document).ready(function(){
 		// THIS KEY WON'T WORK IN PRODUCTION!!!
 		// To make your own Google API key, follow the directions here:
 		// http://fullcalendar.io/docs/google_calendar/
-		googleCalendarApiKey: 'AIzaSyAAZnaZBXLqNBRXjd-82km_NO7GUItyKek',
+		googleCalendarApiKey: 'YOUR_GOOGLE_CALENDAR_API_KEY',
 
 		// US Holidays
 		events: 'en.indian#holiday@group.v.calendar.google.com',
